@@ -8,3 +8,6 @@ crash.log
 
 # Local env
 .env
+
+# Diagram generation
+.diagram-venv/
